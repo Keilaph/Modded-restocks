@@ -21,7 +21,6 @@ One-shot weapons are not restocked.
 | Midnight Expansion | Scattershot Ammo | ouffits me.txt |
 | Midnight Scrapyard | Korath Fireswarm (Fireswarm nest, Fireswarm launcher), Cluster Mine (Korath Scattermine) | outfits ms.txt |
 | Zoura's Outfits Expanded  | Celebration Starlet, Praeparit Cell, Charge Gas and outfits that use vanilla ammo | outfits zoe.txt |
-| Rumskib | Single, triple, quad gatling turret ammo | outfits rs.txt |
 | Fundamental.Outfit.Expansion | Beehive rocket, meteor restocks for Meteor turret | outfits foe.txt |
 
 
