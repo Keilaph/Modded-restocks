@@ -89,3 +89,16 @@ outfitter "lim Plunder mine restock"
 		attributes "outfitter"
 	stock
 		"Plunder Mine"
+		
+outfitter "lim plasma missile restock"
+	to sell
+		or
+			has "outfit: Plasma Missile Box"
+			has "outfit: Plasma Missile Depot"
+			has "outfit: Plasma Missile Launcher"
+			has "outfit: Plasma Missile Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Plasma Missile"
+		
