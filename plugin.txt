@@ -1,7 +1,8 @@
 name "Modded restocks"
 about "Adds restocking for most modded ammo to every outfitter, if you have their launchers or storage installed"
 about "One-shot weapons are not restocked"
-version 1.3.0
+about "dev branch, probably works"
+version 1.3.1
 dependencies
 	requires
 		"Mega Freight"
@@ -9,5 +10,4 @@ dependencies
 		"Midnight Expansion"
 		"Midnight Scrapyard"
 		"Zoura's Outfits Expanded"
-		"Rumskib"
 		"Fundamental.Outfit.Expansion"
